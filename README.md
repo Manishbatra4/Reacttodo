@@ -2,7 +2,7 @@ Task Management App writen in React.js with Redux and Firebase As Database
 
 Step - 1
 
-git clone https://github.com/Manishbatra4/todo.git todo
+git clone https://github.com/Manishbatra4/Reacttodo.git todo
 
 Step - 2
 
